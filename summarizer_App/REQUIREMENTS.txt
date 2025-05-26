@@ -1,0 +1,14 @@
+PyPDF2
+streamlit
+pypdf
+langchain>=0.1.0
+torch
+accelerate
+bitsandbytes
+transformers
+sentence_transformers
+faiss_cpu
+streamlit_chat
+langchainhub
+langchain_community
+openai
